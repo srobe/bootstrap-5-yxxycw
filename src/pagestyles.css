@@ -234,7 +234,7 @@ a.lighten:hover img {
 
 #footer {
 	background-color: #3e4956;
-	width: 20%;
+	width: 100%;
 }
 
 	.footer-text-box {
@@ -502,7 +502,7 @@ h2 { font-size: 1.4em; }
 	
 	
 #content-container {
-	width: 75%;
+	width: 100%;
 	margin: 0 auto;
 	padding: 1% 4%;
 	display: block;
